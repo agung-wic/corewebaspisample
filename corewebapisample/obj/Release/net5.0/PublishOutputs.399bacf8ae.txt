@@ -1,0 +1,11 @@
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\corewebapisample.exe
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\appsettings.Development.json
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\appsettings.json
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\corewebapisample.dll
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\corewebapisample.deps.json
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\corewebapisample.runtimeconfig.json
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\corewebapisample.pdb
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\Microsoft.OpenApi.dll
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Agung Wicaksono\OneDrive\Dokumen\corewebapisample\corewebapisample\bin\Release\net5.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
